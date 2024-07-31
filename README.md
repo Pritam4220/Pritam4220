@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pritam4220
+- 👋 Hi, I’m @PritamKumar
 - 👀 I’m interested in ...embedded software Engineer
-- 🌱 I’m currently learning ...ECE
+- 🌱 I’m currently learning ...about Embedded system
 - 💞️ I’m looking to collaborate on ...Embedded software
 - 📫 How to reach me ...Teacher
 
